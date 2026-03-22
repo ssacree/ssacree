@@ -1,4 +1,4 @@
-## I am a student at IT TOP College in Ufa, learning Python."
+## I am a student at IT TOP College in Ufa, learning Python.
 
 <!--
 **ssacree/ssacree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
